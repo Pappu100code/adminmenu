@@ -1,5 +1,5 @@
 # adminmenu
-qb
+Only Supports QBCORE Fivem Scripts
 
 
 # P4Core
